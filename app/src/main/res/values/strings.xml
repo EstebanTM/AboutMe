@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Esteban Tapia Muñoz</string>
+    <string name="yellow_star">Yellos Star</string>
+    <string name="bio">Hola, insertare un poco de mi aqui abajo
+\n\nVivo en Yuriria y tengo 22 años
+\n\nme gusta el metal y la gran mayoria de sus variantes
+\nme gusta ver anime y los videojuegos
+\n\ny me gustan los podcast de terror\n\n</string>
+
+</resources> 
